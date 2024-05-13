@@ -16,7 +16,7 @@ boton.addEventListener("click", () => {
     imagenMostrada.src = imagen2;
     imagenMostrada.style.width = "300px";
     imagenMostrada.style.height = "300px";
-    parrafo.innerText = `"Aprendí a manipular elementos del DOM usando JavaScript."`;
+    parrafo.innerText = `Aprendí a manipular elementos del DOM usando JavaScript.`;
     parrafo.style.color = "blue";
     contenedor.style.backgroundColor = "blue";
   } else {
