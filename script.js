@@ -23,7 +23,7 @@ boton.addEventListener("click", () => {
     imagenMostrada.src = imagen1;
     imagenMostrada.style.width = "250px";
     imagenMostrada.style.height = "250px";
-    parrafo.innerHTML = `"Front-end es aquello que el usuario ve y con lo que interactúa."`;
+    parrafo.innerHTML = `Front-end es aquello que el usuario ve y con lo que interactúa.`;
     parrafo.style.color = "black";
     contenedor.style.backgroundColor = "#ffffff";
   }
